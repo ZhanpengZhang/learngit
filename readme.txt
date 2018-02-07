@@ -10,4 +10,4 @@ Creating a new branch is quick and easy.
 Creating a new branch is quick and easy.
 >>>>>>> feature1
 
-add mer
+add merge
